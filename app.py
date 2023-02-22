@@ -57,4 +57,4 @@ def index():
         
     return render_template("index.html", xx =-1)
 
-app.run(debug=True, port=5006)
+app.run()
