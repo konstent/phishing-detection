@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'phishect'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5752CCA9DA2046A39401CA0C65EF24DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7FFD6538D4084976B8076E3ABE809ED1 }}
